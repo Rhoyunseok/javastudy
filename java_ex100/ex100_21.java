@@ -11,6 +11,6 @@ public class ex100_21 {
         // 첫 번째 정수에 2의 두 번째 정수 승을 곱합니다.
         int result = a * (int) Math.pow(2, b);
 
-        System.out.println("결과: " + result);
+        System.out.println(result);
     }
 }

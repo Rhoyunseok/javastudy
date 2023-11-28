@@ -1,4 +1,3 @@
-package java_ex100;
 
 import java.util.Scanner;
 
